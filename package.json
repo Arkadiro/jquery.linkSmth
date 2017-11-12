@@ -1,6 +1,6 @@
 {
-    "name": "linkSmth",
-    "title": "LinkSmth jQuery Plugin",
+    "name": "linksmth",
+    "title": "linksmth jQuery Plugin",
     "description": "Simple jQuery plugin to convert any element into a link.",
     "keywords": [
         "link",
